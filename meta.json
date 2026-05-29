@@ -1,0 +1,256 @@
+{
+  "slug": "analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee",
+  "name": "Analyseur de Nuances de Langage pour Écrivains et Traducteurs",
+  "description": "Identifiez la portée émotionnelle, le niveau de formalité et les connotations subtiles d",
+  "theme": "tool",
+  "design_theme": "imported-source",
+  "structure_preset": "external-source",
+  "render_direction": "imported-source",
+  "page_blueprint": "imported-source",
+  "language": "fr",
+  "country": "FR",
+  "url": null,
+  "expected_url": "https://analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee.onrender.com",
+  "created": "2026-05-29T01:51:56.141117+00:00",
+  "owner_user_id": "user-1774822953462",
+  "owner_username": "admin",
+  "owner_display_name": "Administrator",
+  "provider_space_id": "provider-space",
+  "provider_space_name": "Provider space",
+  "status": "generated",
+  "run_id": "run-1780019514866",
+  "publish_target": "render",
+  "mode": "production",
+  "source_type": "imported",
+  "import_source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1780019488997/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee",
+  "import_root_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1780019488997/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee",
+  "import_resolution_note": null,
+  "analysis": {
+    "model": "preserved-analysis",
+    "summary": "Identifiez la portée émotionnelle, le niveau de formalité et les connotations subtiles d",
+    "notes": "Growth module republish of an updated local artifact.",
+    "characteristics": [
+      "imported static site",
+      "ready file deploy",
+      "tool"
+    ]
+  },
+  "github": {
+    "status": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "qa": {
+    "status": "pending"
+  },
+  "features": [
+    "Imported from ready static files",
+    "AI analysis model: preserved-analysis",
+    "imported static site",
+    "ready file deploy",
+    "tool"
+  ],
+  "growth": {
+    "affiliate": {
+      "status": "ready",
+      "updated_at": "2026-05-29T01:51:35.890258+00:00",
+      "modes": [
+        "anchor_text"
+      ],
+      "links": 1,
+      "insertions": 1,
+      "review": {
+        "status": "pass",
+        "score": 84,
+        "summary": "A safer anchor-text fallback was applied as a compact contextual block near the bottom of the page.",
+        "issues": []
+      }
+    }
+  },
+  "previous_live_state": {
+    "url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+    "expected_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+    "requested_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+    "github": {
+      "status": "published",
+      "repo_name": "analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee",
+      "repo_url": "https://github.com/olivkovyi/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee",
+      "updated_at": 1779062892
+    },
+    "deployment": {
+      "status": "ready",
+      "provider": "render",
+      "service_id": "srv-d855hngg4nts73flleeg",
+      "project_name": "analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee",
+      "requested_project_name": null,
+      "deployment_id": "dep-d855hnog4nts73flleng",
+      "deployment_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+      "public_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+      "expected_public_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+      "dashboard_url": "https://dashboard.render.com/static/srv-d855hngg4nts73flleeg",
+      "ready_state": "live",
+      "target": "production",
+      "updated_at": 1779062917,
+      "requested_public_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+      "url_source": "alias"
+    },
+    "qa": {
+      "status": "pass",
+      "local": {
+        "status": "pass",
+        "checks": [
+          {
+            "name": "index_exists",
+            "status": "pass",
+            "detail": "index.html exists"
+          },
+          {
+            "name": "meta_exists",
+            "status": "pass",
+            "detail": "meta.json exists"
+          },
+          {
+            "name": "robots_exists",
+            "status": "pass",
+            "detail": "robots.txt exists"
+          },
+          {
+            "name": "has_title",
+            "status": "pass",
+            "detail": "HTML contains a title tag"
+          },
+          {
+            "name": "has_viewport",
+            "status": "pass",
+            "detail": "HTML contains a mobile viewport meta tag"
+          },
+          {
+            "name": "has_canonical",
+            "status": "pass",
+            "detail": "HTML contains a canonical URL"
+          },
+          {
+            "name": "bundle_size",
+            "status": "pass",
+            "detail": "Generated HTML stays below 250KB"
+          },
+          {
+            "name": "functional_qa_hook",
+            "status": "pass",
+            "detail": "Generated HTML includes the browser QA hook used before deploy."
+          },
+          {
+            "name": "inline_script_syntax",
+            "status": "pass",
+            "detail": "Inline JavaScript syntax check passed."
+          },
+          {
+            "name": "robots_google_only",
+            "status": "pass",
+            "detail": "robots.txt allows only Google crawlers and blocks all other bots."
+          },
+          {
+            "name": "no_meta_noindex",
+            "status": "pass",
+            "detail": "Generated HTML does not inject a noindex robots meta tag."
+          },
+          {
+            "name": "no_internal_branding",
+            "status": "pass",
+            "detail": "Generated site does not leak internal platform branding or internal product naming."
+          },
+          {
+            "name": "desktop_layout_overlap",
+            "status": "pass",
+            "detail": "Editorial desktop layout avoids negative overlap offsets on the tool panel"
+          }
+        ],
+        "checked_at": 1780019496
+      },
+      "functional": {
+        "status": "pass",
+        "detail": "desktop: Le formulaire natif a mis a jour la zone de resultat. | mobile: Le formulaire natif a mis a jour la zone de resultat.",
+        "target_url": "http://127.0.0.1:44887/index.html?__qa=functional",
+        "mode": "native-form",
+        "headline": "Résultats de l'Analyse & Suggestions de Titres",
+        "primary_url": "",
+        "desktop": {
+          "status": "pass",
+          "detail": "Le formulaire natif a mis a jour la zone de resultat.",
+          "target_url": "http://127.0.0.1:44887/index.html?__qa=functional",
+          "viewport": "desktop",
+          "mode": "native-form",
+          "headline": "Résultats de l'Analyse & Suggestions de Titres",
+          "primary_url": "",
+          "reported_viewport": "desktop",
+          "attempt": 1,
+          "updated_at": 1780019497
+        },
+        "mobile": {
+          "status": "pass",
+          "detail": "Le formulaire natif a mis a jour la zone de resultat.",
+          "target_url": "http://127.0.0.1:44887/index.html?__qa=functional",
+          "viewport": "mobile",
+          "mode": "native-form",
+          "headline": "Résultats de l'Analyse & Suggestions de Titres",
+          "primary_url": "",
+          "reported_viewport": "mobile",
+          "attempt": 1,
+          "updated_at": 1780019497
+        },
+        "updated_at": 1780019498
+      },
+      "remote": {
+        "status": "pass",
+        "checks": [
+          {
+            "name": "remote_200",
+            "status": "pass",
+            "detail": "Remote deployment returned HTTP 200"
+          },
+          {
+            "name": "remote_title",
+            "status": "pass",
+            "detail": "Remote HTML contains a title tag"
+          },
+          {
+            "name": "remote_body",
+            "status": "pass",
+            "detail": "Remote HTML contains a body tag"
+          }
+        ],
+        "checked_at": 1780019498
+      },
+      "visual": {
+        "status": "pass",
+        "desktop": {
+          "status": "pass",
+          "path": "/var/lib/utility-site-studio/static/generated-qa/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee-desktop.png",
+          "detail": "1440x960 screenshot captured.",
+          "relative_url": "/static/generated-qa/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee-desktop.png"
+        },
+        "mobile": {
+          "status": "pass",
+          "path": "/var/lib/utility-site-studio/static/generated-qa/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee-mobile.png",
+          "detail": "430x932 screenshot captured.",
+          "relative_url": "/static/generated-qa/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee-mobile.png"
+        },
+        "updated_at": 1780019500
+      },
+      "lighthouse": {
+        "status": "pass",
+        "scores": {
+          "performance": 100,
+          "accessibility": 92,
+          "best-practices": 96,
+          "seo": 100
+        },
+        "report_path": "/var/lib/utility-site-studio/data/qa/lighthouse/analyseur-de-nuances-de-langage-pour-ecrivains-bb4475ee-lighthouse.json",
+        "updated_at": 1780019514
+      },
+      "qa_live_url": "https://analyseur-de-nuances-de-langage-pour.onrender.com",
+      "updated_at": "2026-05-29T01:51:54.474179+00:00"
+    }
+  }
+}
