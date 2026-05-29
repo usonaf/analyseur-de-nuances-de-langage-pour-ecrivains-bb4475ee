@@ -1,5 +1,5 @@
 {
-  "run_id": "run-1780019514866",
+  "run_id": "run-1780020042084",
   "job_index": 1,
   "params": {
     "owner_user_id": "user-1774822953462",
@@ -7,7 +7,7 @@
     "owner_display_name": "Administrator",
     "count": 1,
     "archetype": "tool",
-    "market": "Growth republish",
+    "market": "Identifiez la portée émotionnelle, le niveau de formalité et les connotations s…",
     "language": "fr",
     "country": "FR",
     "brief": "Identifiez la portée émotionnelle, le niveau de formalité et les connotations subtiles d",
@@ -72,7 +72,7 @@
     "archetype": "tool",
     "language": "fr",
     "country": "FR",
-    "market": "Growth republish",
+    "market": "Identifiez la portée émotionnelle, le niveau de formalité et les connotations s…",
     "characteristics": [
       "imported static site",
       "ready file deploy",
